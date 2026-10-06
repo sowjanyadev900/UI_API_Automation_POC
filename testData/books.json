@@ -1,0 +1,18 @@
+[
+  {
+    "searchQuery": "the lord of the rings",
+    "expectedKeyword": "lord of the rings"
+  },
+  {
+    "searchQuery": "harry potter",
+    "expectedKeyword": "harry potter"
+  },
+  {
+    "searchQuery": "pride and prejudice",
+    "expectedKeyword": "pride and prejudice"
+  },
+  {
+    "searchQuery": "the hobbit",
+    "expectedKeyword": "the hobbit"
+  }
+]

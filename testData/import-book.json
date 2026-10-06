@@ -1,0 +1,21 @@
+{
+  "title": "The Great Adventure",
+  "authors": [
+    {
+      "name": "John Smith"
+    }
+  ],
+  "isbn_13": [
+    "9780803291287"
+  ],
+  "languages": [
+    "eng"
+  ],
+  "publishers": [
+    "University of Nebraska Press"
+  ],
+  "publish_date": "1954",
+  "source_records": [
+    "amazon:B0016VINB0"
+  ]
+}

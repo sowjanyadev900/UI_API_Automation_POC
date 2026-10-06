@@ -1,0 +1,22 @@
+{
+  "validEmployee": {
+    "firstName": "John",
+    "middleName": "Test",
+    "lastName": "Automation"
+  },
+  "employeeWithoutFirstName": {
+    "firstName": "",
+    "middleName": "Test",
+    "lastName": "Automation"
+  },
+  "employeeWithoutLastName": {
+    "firstName": "John",
+    "middleName": "Test",
+    "lastName": ""
+  },
+  "emptyEmployee": {
+    "firstName": "",
+    "middleName": "",
+    "lastName": ""
+  }
+}
